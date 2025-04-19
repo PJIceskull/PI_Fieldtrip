@@ -43,3 +43,8 @@ This page will feature a section about a random a Greek Hero, God/Goddess, or my
 <!-- List any websites that you might reference to influence your styling choices. List any colors used and what they were used for.
 
 Describe your usage of tags and categories to help generate content on your pages. -->
+
+- [Eiteljorg Museum](https://eiteljorg.org/)
+  - Color Scheme
+    - The Eiteljorg website uses **oranges** as it's main primary color and white as it's **secondary**. I think that this color scheme could work greatly with our website as well. An **orange** or **golden** color could be very fitting since the theme of our website is greek mythology. For our secondary color, we could use white or a more beige-ish color.
+  - Using larger header images for page portals.
