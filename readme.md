@@ -14,13 +14,17 @@ For this project, my team and I will be creating a website based on Greek mythol
 
 ## Core Webpages
 
-List core webpages and briefly describe the page of them. Include intractable features for the web app.
+<!-- List core webpages and briefly describe the page of them. Include intractable features for the web app. -->
+
+### News
+
+This page will show The most recent or popular news articles that users can click on to read more information.
+
+### Greek Gods
 
 ### Contact Form
 
 As the heading suggests, this page will contain a contact form that users can filled to reach us. This form can be used for sharing share feedback and questions with the team.
-
-### Greek Gods
 
 ### Featured Article
 
@@ -28,6 +32,6 @@ This page will feature a section about a random a Greek Hero, God/Goddess, or my
 
 ## Design Choices
 
-List any websites that you might reference to influence your styling choices. List any colors used and what they were used for.
+<!-- List any websites that you might reference to influence your styling choices. List any colors used and what they were used for.
 
-Describe your usage of tags and categories to help generate content on your pages.
+Describe your usage of tags and categories to help generate content on your pages. -->
