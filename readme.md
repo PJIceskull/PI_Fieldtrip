@@ -16,6 +16,14 @@ For this project, my team and I will be creating a website based on Greek mythol
 
 <!-- List core webpages and briefly describe the page of them. Include intractable features for the web app. -->
 
+### Home
+
+The home page will act as an introduction to the site. From updates about our newsletters, to briefly discussing the new web theme of the month. There will also be popular stories listed here, and a brief welcome at the top for any user that visits the site.
+
+### About
+
+The about page will discuss how the website came to be developed, as well as discuss the creators ambitions for the site and personalities briefly.
+
 ### News
 
 This page will show The most recent or popular news articles that users can click on to read more information.
