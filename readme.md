@@ -10,11 +10,21 @@ Author: Pierce Issah
 
 ## Project Summary
 
-Brief description of your what your project is about and why you chose that topic.
+For this project, my team and I will be creating a website based on Greek mythology. We thought that this would be a good topic for our websites since we can easily divide the pages for different gods, monsters, and heroes.
 
 ## Core Webpages
 
 List core webpages and briefly describe the page of them. Include intractable features for the web app.
+
+### Contact Form
+
+As the heading suggests, this page will contain a contact form that users can filled to reach us. This form can be used for sharing share feedback and questions with the team.
+
+### Greek Gods
+
+### Featured Article
+
+This page will feature a section about a random a Greek Hero, God/Goddess, or mythological legend depending on the month.
 
 ## Design Choices
 
